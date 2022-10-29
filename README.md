@@ -19,4 +19,4 @@ Untuk programnya seperti ini<br/>
  ![Gambar 5](gambar/ss5.png)<br/>
  berikut hasilnya jika program dijalankan<br/>
  ![Gambar 6](gambar/ss6.png)<br/>
- ## Thank You
+ ## Thank You :-)
